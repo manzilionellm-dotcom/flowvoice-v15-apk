@@ -1,2 +1,7 @@
 # flowvoice-v15-apk
-Verified FlowVoice v15 APK download (sha256 64d328e4fbada261df20914ef1817b9e7d5edf54c373e59a353aa4aa29342848)
+
+**Debug / public APK downloads have been removed.**
+
+Do not host unsigned APKs on a public GitHub repository. If you need a build, use a signed release from a private channel.
+
+This repository is retained as a stub so existing links do not 404.
